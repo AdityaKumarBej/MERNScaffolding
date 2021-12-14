@@ -1,0 +1,7 @@
+{
+    "modules" : {
+        "Application.js"        : "SERVER",
+        "ConfigProvider.js"     : "CONFIG",
+        "DummyAuthHandler.js"   : "AUTH"
+    }
+}
